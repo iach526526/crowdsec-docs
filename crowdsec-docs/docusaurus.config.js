@@ -55,6 +55,23 @@ module.exports = {
     favicon: "img/crowdsec_no_txt.png",
     organizationName: "CrowdSec",
     projectName: "crowdsec-docs",
+    // Even if you don't use internalization, you can use this field to set useful
+    // metadata like html lang. For example, if your site is Chinese, you may want
+    // to replace "en" with "zh-Hans".
+    i18n: {
+        defaultLocale: 'en',
+        locales: ['en','zh-Hant'],
+        localeConfigs:{
+        'en': {
+            label: 'English',
+            direction: 'ltr',
+        },
+        'zh-Hant': {
+            label: '繁體中文', 
+            direction: 'ltr', 
+        }
+        }
+    },
     markdown: {
         mdx1Compat: {
             comments: true,
@@ -184,6 +201,10 @@ module.exports = {
                     href: "https://hub.crowdsec.net/",
                     position: "right",
                     className: "header-hub-link",
+                },
+                {
+                    type: 'localeDropdown', // switch language dropdown
+                    position: 'right',
                 },
             ],
         },

@@ -1,0 +1,58 @@
+{
+  "logo.alt": {
+    "message": "CrowdSec",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Security Stack": {
+    "message": "Security Stack",
+    "description": "Navbar item with label Security Stack"
+  },
+  "item.label.Blocklists": {
+    "message": "Blocklists",
+    "description": "Navbar item with label Blocklists"
+  },
+  "item.label.API(s)": {
+    "message": "API(s)",
+    "description": "Navbar item with label API(s)"
+  },
+  "item.label.Console": {
+    "message": "Console",
+    "description": "Navbar item with label Console"
+  },
+  "item.label.Academy": {
+    "message": "Academy",
+    "description": "Navbar item with label Academy"
+  },
+  "item.label.FAQ/Troubleshooting": {
+    "message": "FAQ/Troubleshooting",
+    "description": "Navbar item with label FAQ/Troubleshooting"
+  },
+  "item.label.Security Engine": {
+    "message": "Security Engine",
+    "description": "Navbar item with label Security Engine"
+  },
+  "item.label.Remediation Components": {
+    "message": "Remediation Components",
+    "description": "Navbar item with label Remediation Components"
+  },
+  "item.label.Application Security Component": {
+    "message": "Application Security Component",
+    "description": "Navbar item with label Application Security Component"
+  },
+  "item.label.Cscli": {
+    "message": "Cscli",
+    "description": "Navbar item with label Cscli"
+  },
+  "item.label.Guides": {
+    "message": "Guides",
+    "description": "Navbar item with label Guides"
+  },
+  "item.label.CTI API": {
+    "message": "CTI API",
+    "description": "Navbar item with label CTI API"
+  },
+  "item.label.Service API": {
+    "message": "Service API",
+    "description": "Navbar item with label Service API"
+  }
+}

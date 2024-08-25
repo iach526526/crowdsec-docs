@@ -1,0 +1,278 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.ctiApiSidebar.category.Taxonomy": {
+    "message": "Taxonomy",
+    "description": "The label for category Taxonomy in sidebar ctiApiSidebar"
+  },
+  "sidebar.ctiApiSidebar.category.Integrations": {
+    "message": "Integrations",
+    "description": "The label for category Integrations in sidebar ctiApiSidebar"
+  },
+  "sidebar.ctiApiSidebar.link.Swagger": {
+    "message": "Swagger",
+    "description": "The label for link Swagger in sidebar ctiApiSidebar, linking to https://crowdsecurity.github.io/cti-api/"
+  },
+  "sidebar.ctiApiSidebar.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar ctiApiSidebar, linking to the doc cti_api/intro"
+  },
+  "sidebar.ctiApiSidebar.doc.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for the doc item Getting Started in sidebar ctiApiSidebar, linking to the doc cti_api/getting_started"
+  },
+  "sidebar.ctiApiSidebar.doc.Search Queries": {
+    "message": "Search Queries",
+    "description": "The label for the doc item Search Queries in sidebar ctiApiSidebar, linking to the doc cti_api/search_queries"
+  },
+  "sidebar.consoleSidebar.category.Security Engine": {
+    "message": "Security Engine",
+    "description": "The label for category Security Engine in sidebar consoleSidebar"
+  },
+  "sidebar.consoleSidebar.category.Alerts": {
+    "message": "Alerts",
+    "description": "The label for category Alerts in sidebar consoleSidebar"
+  },
+  "sidebar.consoleSidebar.category.Decision": {
+    "message": "Decision",
+    "description": "The label for category Decision in sidebar consoleSidebar"
+  },
+  "sidebar.consoleSidebar.link.Service API": {
+    "message": "Service API",
+    "description": "The label for link Service API in sidebar consoleSidebar, linking to /u/service_api/getting_started"
+  },
+  "sidebar.consoleSidebar.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar consoleSidebar, linking to the doc console/alerts/intro"
+  },
+  "sidebar.consoleSidebar.doc.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for the doc item Getting Started in sidebar consoleSidebar, linking to the doc console/getting_started"
+  },
+  "sidebar.consoleSidebar.doc.Dashboard": {
+    "message": "Dashboard",
+    "description": "The label for the doc item Dashboard in sidebar consoleSidebar, linking to the doc console/security_engines/dashboard"
+  },
+  "sidebar.consoleSidebar.doc.Filter And Sort": {
+    "message": "Filter And Sort",
+    "description": "The label for the doc item Filter And Sort in sidebar consoleSidebar, linking to the doc console/security_engines/filter_and_sort"
+  },
+  "sidebar.consoleSidebar.doc.Pending Security Engines": {
+    "message": "Pending Security Engines",
+    "description": "The label for the doc item Pending Security Engines in sidebar consoleSidebar, linking to the doc console/security_engines/pending_security_engines"
+  },
+  "sidebar.consoleSidebar.doc.Name and Tags": {
+    "message": "Name and Tags",
+    "description": "The label for the doc item Name and Tags in sidebar consoleSidebar, linking to the doc console/security_engines/name_and_tags"
+  },
+  "sidebar.consoleSidebar.doc.Transfer an Engine": {
+    "message": "Transfer an Engine",
+    "description": "The label for the doc item Transfer an Engine in sidebar consoleSidebar, linking to the doc console/security_engines/transfer_engine"
+  },
+  "sidebar.consoleSidebar.doc.Remove an Engine": {
+    "message": "Remove an Engine",
+    "description": "The label for the doc item Remove an Engine in sidebar consoleSidebar, linking to the doc console/security_engines/remove_engine"
+  },
+  "sidebar.consoleSidebar.doc.Troubleshooting": {
+    "message": "Troubleshooting",
+    "description": "The label for the doc item Troubleshooting in sidebar consoleSidebar, linking to the doc console/security_engines/troubleshooting"
+  },
+  "sidebar.consoleSidebar.doc.Select multiple organizations": {
+    "message": "Select multiple organizations",
+    "description": "The label for the doc item Select multiple organizations in sidebar consoleSidebar, linking to the doc console/security_engines/select_multiple_organizations"
+  },
+  "sidebar.consoleSidebar.doc.Details page": {
+    "message": "Details page",
+    "description": "The label for the doc item Details page in sidebar consoleSidebar, linking to the doc console/security_engines/details_page"
+  },
+  "sidebar.consoleSidebar.doc.Blocklists": {
+    "message": "Blocklists",
+    "description": "The label for the doc item Blocklists in sidebar consoleSidebar, linking to the doc blocklists/intro"
+  },
+  "sidebar.consoleSidebar.doc.Visualizer": {
+    "message": "Visualizer",
+    "description": "The label for the doc item Visualizer in sidebar consoleSidebar, linking to the doc console/alerts/visualizer"
+  },
+  "sidebar.consoleSidebar.doc.Alerts analysis": {
+    "message": "Alerts analysis",
+    "description": "The label for the doc item Alerts analysis in sidebar consoleSidebar, linking to the doc console/alerts/alerts_analysis"
+  },
+  "sidebar.consoleSidebar.doc.Alerts contexts": {
+    "message": "Alerts contexts",
+    "description": "The label for the doc item Alerts contexts in sidebar consoleSidebar, linking to the doc console/alerts/alerts_contexts"
+  },
+  "sidebar.consoleSidebar.doc.Background Noise": {
+    "message": "Background Noise",
+    "description": "The label for the doc item Background Noise in sidebar consoleSidebar, linking to the doc console/alerts/background_noise"
+  },
+  "sidebar.consoleSidebar.doc.Quotas": {
+    "message": "Quotas",
+    "description": "The label for the doc item Quotas in sidebar consoleSidebar, linking to the doc console/alerts/quotas"
+  },
+  "sidebar.remediationSideBar.link.Third Party": {
+    "message": "Third Party",
+    "description": "The label for link Third Party in sidebar remediationSideBar, linking to https://hub.crowdsec.net/browse/#bouncers"
+  },
+  "sidebar.remediationSideBar.doc.AWS WAF": {
+    "message": "AWS WAF",
+    "description": "The label for the doc item AWS WAF in sidebar remediationSideBar, linking to the doc bouncers/aws_waf"
+  },
+  "sidebar.remediationSideBar.doc.BlockList Mirror": {
+    "message": "BlockList Mirror",
+    "description": "The label for the doc item BlockList Mirror in sidebar remediationSideBar, linking to the doc bouncers/blocklist-mirror"
+  },
+  "sidebar.remediationSideBar.doc.Cloudflare": {
+    "message": "Cloudflare",
+    "description": "The label for the doc item Cloudflare in sidebar remediationSideBar, linking to the doc bouncers/cloudflare"
+  },
+  "sidebar.remediationSideBar.doc.Cloudflare Workers": {
+    "message": "Cloudflare Workers",
+    "description": "The label for the doc item Cloudflare Workers in sidebar remediationSideBar, linking to the doc bouncers/cloudflare-workers"
+  },
+  "sidebar.remediationSideBar.doc.Custom": {
+    "message": "Custom",
+    "description": "The label for the doc item Custom in sidebar remediationSideBar, linking to the doc bouncers/custom"
+  },
+  "sidebar.remediationSideBar.doc.Fastly": {
+    "message": "Fastly",
+    "description": "The label for the doc item Fastly in sidebar remediationSideBar, linking to the doc bouncers/fastly"
+  },
+  "sidebar.remediationSideBar.doc.Firewall": {
+    "message": "Firewall",
+    "description": "The label for the doc item Firewall in sidebar remediationSideBar, linking to the doc bouncers/firewall"
+  },
+  "sidebar.remediationSideBar.doc.HAProxy": {
+    "message": "HAProxy",
+    "description": "The label for the doc item HAProxy in sidebar remediationSideBar, linking to the doc bouncers/haproxy"
+  },
+  "sidebar.remediationSideBar.doc.Ingress Nginx": {
+    "message": "Ingress Nginx",
+    "description": "The label for the doc item Ingress Nginx in sidebar remediationSideBar, linking to the doc bouncers/ingress-nginx"
+  },
+  "sidebar.remediationSideBar.doc.Magento 2": {
+    "message": "Magento 2",
+    "description": "The label for the doc item Magento 2 in sidebar remediationSideBar, linking to the doc bouncers/magento"
+  },
+  "sidebar.remediationSideBar.doc.MISP Feed Generator": {
+    "message": "MISP Feed Generator",
+    "description": "The label for the doc item MISP Feed Generator in sidebar remediationSideBar, linking to the doc bouncers/misp-feed-generator"
+  },
+  "sidebar.remediationSideBar.doc.Nginx": {
+    "message": "Nginx",
+    "description": "The label for the doc item Nginx in sidebar remediationSideBar, linking to the doc bouncers/nginx"
+  },
+  "sidebar.remediationSideBar.doc.OpenResty": {
+    "message": "OpenResty",
+    "description": "The label for the doc item OpenResty in sidebar remediationSideBar, linking to the doc bouncers/openresty"
+  },
+  "sidebar.remediationSideBar.doc.PHP": {
+    "message": "PHP",
+    "description": "The label for the doc item PHP in sidebar remediationSideBar, linking to the doc bouncers/php"
+  },
+  "sidebar.remediationSideBar.doc.PHP Library": {
+    "message": "PHP Library",
+    "description": "The label for the doc item PHP Library in sidebar remediationSideBar, linking to the doc bouncers/php-lib"
+  },
+  "sidebar.remediationSideBar.doc.Windows Firewall": {
+    "message": "Windows Firewall",
+    "description": "The label for the doc item Windows Firewall in sidebar remediationSideBar, linking to the doc bouncers/windows_firewall"
+  },
+  "sidebar.remediationSideBar.doc.Wordpress": {
+    "message": "Wordpress",
+    "description": "The label for the doc item Wordpress in sidebar remediationSideBar, linking to the doc bouncers/wordpress"
+  },
+  "sidebar.blocklistsSideBar.category.Integrations": {
+    "message": "Integrations",
+    "description": "The label for category Integrations in sidebar blocklistsSideBar"
+  },
+  "sidebar.blocklistsSideBar.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar blocklistsSideBar, linking to the doc blocklists/intro"
+  },
+  "sidebar.blocklistsSideBar.doc.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for the doc item Getting Started in sidebar blocklistsSideBar, linking to the doc blocklists/getting_started"
+  },
+  "sidebar.blocklistsSideBar.doc.Catalog": {
+    "message": "Catalog",
+    "description": "The label for the doc item Catalog in sidebar blocklistsSideBar, linking to the doc console/blocklists/catalog"
+  },
+  "sidebar.blocklistsSideBar.doc.Details": {
+    "message": "Details",
+    "description": "The label for the doc item Details in sidebar blocklistsSideBar, linking to the doc console/blocklists/details"
+  },
+  "sidebar.blocklistsSideBar.doc.Subscription": {
+    "message": "Subscription",
+    "description": "The label for the doc item Subscription in sidebar blocklistsSideBar, linking to the doc console/blocklists/subscription"
+  },
+  "sidebar.blocklistsSideBar.doc.Security Engine": {
+    "message": "Security Engine",
+    "description": "The label for the doc item Security Engine in sidebar blocklistsSideBar, linking to the doc blocklists/security_engine"
+  },
+  "sidebar.troubleshootingSideBar.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar troubleshootingSideBar, linking to the doc troubleshooting/intro"
+  },
+  "sidebar.troubleshootingSideBar.doc.Security Engine": {
+    "message": "Security Engine",
+    "description": "The label for the doc item Security Engine in sidebar troubleshootingSideBar, linking to the doc troubleshooting/security_engine"
+  },
+  "sidebar.troubleshootingSideBar.doc.Remediation Components": {
+    "message": "Remediation Components",
+    "description": "The label for the doc item Remediation Components in sidebar troubleshootingSideBar, linking to the doc troubleshooting/remediation_components"
+  },
+  "sidebar.serviceApiSideBar.category.Quickstart": {
+    "message": "Quickstart",
+    "description": "The label for category Quickstart in sidebar serviceApiSideBar"
+  },
+  "sidebar.serviceApiSideBar.category.SDKs": {
+    "message": "SDKs",
+    "description": "The label for category SDKs in sidebar serviceApiSideBar"
+  },
+  "sidebar.serviceApiSideBar.link.Swagger": {
+    "message": "Swagger",
+    "description": "The label for link Swagger in sidebar serviceApiSideBar, linking to https://admin.api.crowdsec.net/v1/docs#/"
+  },
+  "sidebar.serviceApiSideBar.link.Redoc": {
+    "message": "Redoc",
+    "description": "The label for link Redoc in sidebar serviceApiSideBar, linking to https://admin.api.crowdsec.net/v1/redoc"
+  },
+  "sidebar.serviceApiSideBar.doc.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for the doc item Getting Started in sidebar serviceApiSideBar, linking to the doc service_api/getting_started"
+  },
+  "sidebar.serviceApiSideBar.doc.Python": {
+    "message": "Python",
+    "description": "The label for the doc item Python in sidebar serviceApiSideBar, linking to the doc service_api/sdks/python"
+  },
+  "sidebar.serviceApiSideBar.doc.FAQ": {
+    "message": "FAQ",
+    "description": "The label for the doc item FAQ in sidebar serviceApiSideBar, linking to the doc service_api/faq"
+  },
+  "sidebar.guidesSideBar.category.Management": {
+    "message": "Management",
+    "description": "The label for category Management in sidebar guidesSideBar"
+  },
+  "sidebar.gettingStarted.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category Installation in sidebar gettingStarted"
+  },
+  "sidebar.gettingStarted.category.Post Installation Steps": {
+    "message": "Post Installation Steps",
+    "description": "The label for category Post Installation Steps in sidebar gettingStarted"
+  },
+  "sidebar.gettingStarted.category.CrowdSec Console": {
+    "message": "CrowdSec Console",
+    "description": "The label for category CrowdSec Console in sidebar gettingStarted"
+  },
+  "sidebar.gettingStarted.category.Acquisition": {
+    "message": "Acquisition",
+    "description": "The label for category Acquisition in sidebar gettingStarted"
+  },
+  "sidebar.gettingStarted.link.Technical Documentation": {
+    "message": "Technical Documentation",
+    "description": "The label for link Technical Documentation in sidebar gettingStarted, linking to /docs/next/intro"
+  }
+}
