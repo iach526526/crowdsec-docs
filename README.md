@@ -3,7 +3,6 @@
 
 ## Crowdsec documentation
 ![alt text](index-demo.png)
-
 </div>
 This repository holds the documentation for the [crowdsec project](https://github.com/crowdsecurity/crowdsec).
 
